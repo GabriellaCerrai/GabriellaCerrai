@@ -1,4 +1,4 @@
-## Me in a Nutshell:
+#### Me in a Nutshell:
 - 👋🏻 Hi here! I’m Gabriella Cerrai; I'm 26 y.o. 
 - 📍 Born and rasied in Johannesburg; currently based in Cape Town 
 - ❤️‍🔥 I’m passionate about Data Science and furthering my career in the Data & Tech space
