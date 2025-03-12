@@ -7,6 +7,8 @@
 - 📩 My email address is gcerrai26@gmail.com
 --🤸🏻‍♂️ Fun fact: I was a dancer for 13 years throughout my school career 
 
+#### Techstack: 
+- *Laguages:* R, Python, SQL 
 
 <!---
 GabriellaCerrai/GabriellaCerrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
