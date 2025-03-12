@@ -4,7 +4,7 @@
 - 💻 I'm working on identifying weak areas in my coding abilities and finding the best possible ways to further develop my Python skills 
 - 💡 The projects on my profile are mini projects that I have made for myself as challenges as well as some repos containing code from university projects that I worked on
 - 📩 My email address is gcerrai26@gmail.com
--- 🤸🏻‍♂️ Fun fact: I was a dancer for 13 years throughout my school career 
+--🤸🏻‍♂️ Fun fact: I was a dancer for 13 years throughout my school career 
 
 
 <!---
