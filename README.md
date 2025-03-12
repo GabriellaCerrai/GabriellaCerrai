@@ -9,8 +9,9 @@
 
 #### Techstack: 
 - **Languages:** R, MySQL (basic); Python (intermediate) 
-- **Tools:** R Studio, Jupyter 
+- **Tools:** R Studio, MySql Workbench, Jupyter 
 - **Packages:** numpy, pandas, statsmodels, sklearn, tensorflow
+
 
 #### Goals:
 - Career development and expansion within Data & Tech
