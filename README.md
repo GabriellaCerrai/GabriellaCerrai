@@ -1,7 +1,7 @@
 👋🏻 Hi here! I’m Gabriella Cerrai; I am currently 26 y.o. 
 📍 Born and rasised in Johannesburg; currently based in Cape Town 
 ❤️‍🔥 I’m passionate about Data Science and furthering my career in the Data & Tech space
-💻 I'm working on finding ways of identifying weak areas in my coding abilities and further developing my Python skills 
+💻 I'm working on identifying weak areas in my coding abilities and finding thr best possibl ways of further developing my Python skills 
 📩 My email address is gcerrai26@gmail.com
 🤸🏻‍♂️ Fun fact: I was a dancer for 13 years throughout my school career 
 
