@@ -9,7 +9,7 @@
 
 #### Techstack: 
 - **Languages:** R, MySQL (basic); Python (intermediate) 
-- **Tools:** R Studio, MySql Workbench, Jupyter 
+- **Tools:** R Studio, R Markdown, MySQL Workbench, Jupyter 
 - **Packages:** numpy, pandas, statsmodels, sklearn, tensorflow
 
 
