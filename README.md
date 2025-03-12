@@ -8,8 +8,11 @@
 --🤸🏻‍♂️ Fun fact: I was a dancer for 13 years throughout my school career 
 
 #### Techstack: 
-- *Laguages:* R, Python, SQL 
+- **Laguages:** R, SQL (basic); Python (intermediate) 
 
+#### Goals:
+- Career development and expansion within Data & Tech
+- Skill development
 <!---
 GabriellaCerrai/GabriellaCerrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
